@@ -1,3 +1,3 @@
 # git_test
-testing repository yay
+testing repository
 Hello Odin!
